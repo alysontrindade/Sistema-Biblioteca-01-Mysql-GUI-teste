@@ -6,8 +6,6 @@ import javax.swing.*;
 /* Sistema de controle de Biblioteca utilizando padrão MVC
 */
 
-//versão 2.0
-
 public class Main {
   static Scanner s = new Scanner(System.in);
 
