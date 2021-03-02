@@ -1,0 +1,7 @@
+run = """
+export CLASSPATH=\".:./DriverDB/*\"; 
+javac -d . *.java
+javac -d . */*.java
+java Main
+"""
+language = "java-swing"
